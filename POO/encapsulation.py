@@ -1,7 +1,7 @@
 '''
 Public
 _ Protected -> Os atributos ou métodos da classe não devem ser acessados
-__ -> Private -> É fortemente recomendado que os atributos e os métodos da classe
+__ Private -> É fortemente recomendado que os atributos e os métodos da classe
                  não sejam acessados (reforçando o príncipio do protected)
 '''
 
