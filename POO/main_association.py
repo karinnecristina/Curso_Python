@@ -1,4 +1,4 @@
-from classes import Student,Book
+from association import Student,Book
 
 student = Student('Pedro')
 book = Book('Espanhol')
